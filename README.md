@@ -8,7 +8,7 @@ Full Stack Developer | MERN Stack | AI & Data Science Student
 📞 +91-8766239414 |
 📧 aryanvedaa2023@gmail.com |
 <a href="https://linkedin.com/in/aryan-dev30">LinkedIn</a> |
-<a href="https://github.com/aryan-dev30">GitHub</a>
+<a href="https://github.com/AryanDev18">GitHub</a>
 </p>
 
 ---
@@ -19,10 +19,10 @@ Full Stack Developer | MERN Stack | AI & Data Science Student
 
 I enjoy building **scalable full-stack applications**, solving **Data Structures & Algorithms problems**, and working with **modern web technologies**.
 
-- MERN Stack Developer
-- AI & Data Science Enthusiast
-- Solved **300+ DSA problems**
-- Interested in **Backend Systems & Scalable Applications**
+• MERN Stack Developer  
+• AI & Data Science Enthusiast  
+• Solved **300+ DSA problems**  
+• Interested in **Backend Systems & Scalable Applications**
 
 ---
 
@@ -32,11 +32,7 @@ I enjoy building **scalable full-stack applications**, solving **Data Structures
 B.Tech in Artificial Intelligence & Data Science  
 New Delhi | Sept 2023 – Present
 
-**Delhi Skill and Entrepreneurship University**  
-Diploma in Civil Engineering  
-New Delhi | Aug 2020 – Aug 2023
-
-**Summer Fields International School**  
+**Summer Fields School**  
 CBSE Class X | 2020
 
 ---
@@ -47,20 +43,20 @@ CBSE Class X | 2020
 **go4WorldBusiness – Wyzen Systems Pvt Ltd**  
 New Delhi | June 2025 – July 2025
 
-• Built responsive frontend interfaces using **React.js, Redux, Bootstrap**  
-• Designed **RESTful APIs using Node.js and Express.js**  
+• Built frontend interfaces using **React.js, Redux, Bootstrap**  
+• Designed **REST APIs using Node.js and Express.js**  
 • Implemented secure **CRUD operations with MongoDB**  
-• Optimized UI for **cross-device responsiveness**
+• Ensured cross-device responsive UI
 
 ---
 
 # 🚀 Projects
 
-### 💬 Talkative – Real-Time Chat Application
+### 💬 Talkative — Real Time Chat Application
 
-• Built real-time messaging using **Socket.io**  
-• Implemented **JWT authentication**  
-• Integrated **Cloudinary image uploads**  
+• Real-time messaging using **Socket.io**  
+• **JWT authentication** implementation  
+• **Cloudinary image uploads**  
 • Deployed using **Render CI/CD**
 
 Tech Stack  
@@ -68,9 +64,9 @@ Tech Stack
 
 ---
 
-### 🕵️ Mystery Message – Anonymous Messaging Platform
+### 🕵️ Mystery Message — Anonymous Messaging Platform
 
-• Users receive anonymous messages through shareable links  
+• Users receive anonymous messages through unique links  
 • Integrated **Gemini API** for AI message suggestions  
 • Secure authentication with **NextAuth**
 
@@ -79,11 +75,11 @@ Tech Stack
 
 ---
 
-### 📅 MeetSync – Meeting Scheduling Platform
+### 📅 MeetSync — Meeting Scheduling Platform
 
-• Booking system with **Google Calendar integration**  
-• Automated event creation via **Google Calendar API**  
-• Built UI using **Tailwind CSS**
+• Meeting booking with **Google Calendar integration**  
+• Automated event creation using **Google Calendar API**  
+• Built responsive UI using **Tailwind CSS**
 
 Tech Stack  
 `Next.js` `Prisma` `PostgreSQL`
@@ -116,26 +112,26 @@ Tech Stack
 
 # 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev30&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanDev18&layout=compact&theme=tokyonight)
 
 ---
 
 # 📈 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-dev30&show_icons=true)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDev18&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🏆 Achievements
 
-🏅 **AIR 145 – IPU CET 2023 (AI & DS)**  
+🥇 **AIR 145 – IPU CET 2023 (AI & DS)**  
 Top **0.8% among 25,000+ candidates**
 
-🏅 **AIR 208 – CET 2020 (Diploma)**  
+🥈 **AIR 208 – CET 2020 (Diploma)**  
 Top **1.5% nationwide**
 
 💻 Solved **300+ DSA problems**
 
 ---
 
-⭐ From [Aryan Dev](https://github.com/aryan-dev30)
+⭐ From [Aryan Dev](https://github.com/AryanDev18)
